@@ -13,8 +13,8 @@ By the end of this lab my user stories have acceptance criteria and my README sh
 | #3 | Add structure and roadmap to the README | To do |
 
 ### Daily standup notes
-- Standup 1: [what I will do now / what could block me]
-- Standup 2: [what I did / what is next / any blocker]
+- Standup 1: I will add acceptance criteria first.A possible blocker is unclear requirements.
+- Standup 2: I completed the backlog and will check the README structure next.
 
 ### Sprint review
 [What did you finish? What did you show a classmate?]
